@@ -1,6 +1,5 @@
 import re
 import numpy as np
-import pulp
 
 def light_str_to_num(light_str):
     binary_str = ''
